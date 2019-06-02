@@ -1,0 +1,47 @@
+// Small devices (landscape phones, 576px and up)
+@media only screen and (max-width: 576px) {
+  .jumbotron{
+
+  }
+ }
+
+html{
+  font-size: 14px;
+}
+
+/*Caresoul*/
+.jumbotron{
+  background-size: cover;
+  height: auto;
+  width: 100%;
+  text-align: center;
+  padding-top: 1.0%;
+  padding-bottom: 1.7%;
+}
+.jumbotron-1{
+  background-image: url("../images/az/az-1.jpg");
+}
+.jumbotron-2{
+  background-image: url("../images/az/az-2.jpg");
+}
+.jumbotron-3{
+  background-image: url("../images/az/az-3.jpg");
+}
+.jumbotron-4{
+  background-image: url("../images/az/az-4.jpg");
+}
+.jumbotron-5{
+  background-image: url("../images/az/az-5.jpg");
+}
+.jumbotron-6{
+  background-image: url("../images/az/az-6.jpg");
+}
+.jumbotron-7{
+  background-image: url("../images/az/az-7.jpg");
+}
+.jumbotron-8{
+  background-image: url("../images/az/az-8.jpg");
+}
+.jumbotron-9{
+  background-image: url("../images/az/az-9.jpg");
+}
