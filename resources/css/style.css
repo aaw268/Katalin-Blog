@@ -1,9 +1,10 @@
-// Small devices (landscape phones, 576px and up)
-@media only screen and (max-width: 576px) {
-  .jumbotron p{
-    color: blue;
+@media (min-width: 768px) { 
+  .container {
+    margin-top: 4rem !important;
+    margin-bottom: 4rem;
   }
- }
+ }  
+
 
 html{
   font-size: 12px;
@@ -12,7 +13,6 @@ html{
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  border: 1px solid green;
 }
 .box img{
   max-width: 100%;
@@ -20,6 +20,5 @@ html{
 }
 
 .container{
-  border: 1px solid red;
   margin-top: 13rem;
 }
