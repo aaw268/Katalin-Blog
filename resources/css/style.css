@@ -1,7 +1,7 @@
 @media (min-width: 768px) { 
   .container {
     margin-top: 4rem !important;
-    margin-bottom: 4rem;
+    margin-bottom: 4rem !important;
   }
  }  
 
